@@ -1,0 +1,14 @@
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe.config
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeTeerling\obj\Debug\YathzeeTeerling.exe
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeTeerling\obj\Debug\YathzeeTeerling.pdb
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe.config
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.exe
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.pdb
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\bin\Debug\YathzeeTeerling.pdb
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeSpel.csprojResolveAssemblyReference.cache
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.YahtzeeView.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.Yathzee.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.Properties.Resources.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeTeerling.TeerlingView.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\YathzeeSpel_5\YathzeeTeerling\obj\Debug\YathzeeSpel.csproj.GenerateResource.Cache
