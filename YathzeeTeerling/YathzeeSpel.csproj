@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ScoreboardView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScoreboardView.Designer.cs">
+      <DependentUpon>ScoreboardView.cs</DependentUpon>
+    </Compile>
     <Compile Include="YahtzeeModel.cs" />
     <Compile Include="YathzeeController.cs" />
     <Compile Include="TeerlingController.cs" />
@@ -70,6 +76,9 @@
     <Compile Include="TeerlingView.Designer.cs">
       <DependentUpon>TeerlingView.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ScoreboardView.resx">
+      <DependentUpon>ScoreboardView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="YahtzeeView.resx">
       <DependentUpon>YahtzeeView.cs</DependentUpon>
     </EmbeddedResource>
