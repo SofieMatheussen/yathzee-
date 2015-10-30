@@ -10,7 +10,7 @@ namespace YathzeeTeerling
   {
     private List<TeerlingController> teerlingen = new List<TeerlingController>();
     private int aantalTeerlingen = 5; //hoeveel teerlingen er verschijnen
-    private int maxAantalWorpen = 5;  // max worpen --> opdracht
+    private int maxAantalWorpen = 3;  // max worpen --> opdracht
     private int aantalWorpen = 0;
 
     public void addTeerling(TeerlingController teerling)
